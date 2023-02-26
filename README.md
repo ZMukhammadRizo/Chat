@@ -1,6 +1,6 @@
 # Chat App
 
-    ReactJS & Firebase
+ReactJS & Firebase
 
 ## Available Scripts
 
