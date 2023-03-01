@@ -115,13 +115,21 @@ button:hover {
   align-self: flex-end;
   flex-direction: row;
 }
+.recieved {
+  align-self: flex-start;
+  flex-direction: row-reverse;
+}
 
 .recieved img,
 .sent img {
   border-radius: 50%;
   height: 2rem;
 }
-.sent p {
+.recieved img {
+  margin: 0 0.5rem;
+}
+.sent p,
+.recieved p {
   background-color: teal;
   margin-right: 0.5rem;
 }
